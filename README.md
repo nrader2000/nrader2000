@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1>
+  Hi there i'm Nick Rader!👋
+</h1>
 
 <!--
 **nrader2000/nrader2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
